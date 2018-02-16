@@ -1,1 +1,1 @@
-# mine_sprite
+# sprite_project
