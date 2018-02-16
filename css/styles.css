@@ -1,0 +1,397 @@
+body {
+	margin:0;
+	padding:0;
+	font-family:Arial;
+}
+
+header {
+	height:45px;
+	width:100%;
+	background:#37a14c;
+	color:white;
+}
+
+footer {
+	height:57px;
+	width:100%;
+}
+
+button {
+	height:35px;
+	width:136px;
+	background:#ffc00f;
+	border-radius:3px;
+	color:white;
+	border:none;
+	box-shadow:0 1px 5px #293224;
+	margin-top:11px;
+}
+
+h1 {
+	margin:0;
+	padding:20px 0 16px;
+}
+
+h3 {
+	margin:0;
+	padding-left:10px;
+	padding-top:11px;
+	font-size:14px;
+	font-weight:bold;
+}
+
+.head {
+	width:980px;
+	height:45px;
+	font-size:16px;
+	margin:0 auto;
+	padding:0;
+}
+
+.head_title {
+	width:800px;
+	padding:15px 0;
+}
+
+.logotype {
+	height:116px;
+	width:980px;
+	margin:0 auto;
+}
+
+.logo {
+	padding-top:14px;
+	width:178px;
+	height:102px;
+	float:left;
+}
+
+.contacts {
+	height:116px;
+	width:89px;
+	float:left;
+}
+
+.contacts_header {
+	height:116px;
+	width:89px;
+	float:left;
+	font-size:16px;
+	font-family:Arial;
+	text-align:left;
+}
+
+.contacts_header p {
+	padding:0;
+	margin:0;
+}
+
+.contacts_title {
+	width:91px;
+	height:96px;
+	float:left;
+	font-size:16px;
+}
+
+.contacts_admin {
+	height:34px;
+	padding-top:14px;
+}
+
+.contacts_donat {
+	height:36px;
+	padding-top:12px;
+}
+
+.skype {
+	height:24px;
+}
+
+.skype p {
+	margin-top:39px;
+	margin-bottom:0;
+	padding:0;
+}
+
+.skype img {
+	float:right;
+	padding-right:9px;
+}
+
+.skype_contact {
+	font-size:16px;
+	font-style:italic;
+	color:#1200ff;
+}
+
+.telephones_block {
+	padding:12px 0;
+	width:178px;
+	height:92px;
+	float:left;
+	font-size:20px;
+}
+
+.buttons {
+	height:116px;
+	width:158px;
+	float:left;
+	text-align:center;
+
+}
+
+.logo_minecraft {
+	float:right;
+	padding-top:22px;
+	padding-bottom:32px;
+}
+
+.menu {
+	height:45px;
+	width:100%;
+	background:#37a14c;
+}
+
+.menu_list {
+	width:980px;
+	height:45px;
+	margin:0 auto;
+	font-size:16px;
+	font-weight:bold;
+	font-family:Arial;
+}
+
+.menu_header {
+	width:194px;
+	height:31px;
+	float:left;
+	padding-top:14px;
+	color:white;
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	border-left:1px solid #247634;
+	border-right:1px solid #57e974;
+}
+
+.menu_list a {
+	text-decoration:none;
+	color:white;
+	font-size:16px;
+	font-family:Arial;
+}
+
+.content {
+	height:842px;
+	width:980px;
+	margin:0 auto;
+}
+
+.sidebar {
+	float:left;
+	width:244px;
+	height:842px;
+}
+
+.minecraft_world {
+	height:172px;
+	width:226px;
+	border-bottom:1px solid #e7e7e7;
+}
+
+.minecraft_list {
+	padding:0;
+}
+
+.minecraft_list li {
+    list-style-type: none;
+	padding-left:18px;
+	font-size:16px;
+	color:#ff0000;
+}
+ 
+.minecraft_list li:before {
+    content: " - ";
+  }
+
+.minecraft_world h3 {
+	margin:0;
+	padding-top:25px;
+	padding-left:0;
+}
+
+.minecraft_world a {
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+}
+
+.sidebar_minecraft a {
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+}
+
+.sidebar_minecraft {
+	height:53px;
+	width:226px;
+	border-bottom:1px solid #e7e7e7;
+}
+
+.sidebar_minecraft h3 {
+	padding-left:0;
+	padding-top:18px;
+}
+
+.about {
+	width:736px;
+	height:842px;
+	float:right;
+}
+
+.about_connect {
+	width:736px;
+	height:487px;
+	border-bottom:1px solid #e7e7e7;
+	float:left;
+}
+
+.about_connect p {
+	font-size:14px;
+}
+
+.about_news {
+	width:736px;
+	height:353px;
+}
+
+.news_text {
+	float:left;
+	height:89px;
+	width:232px;
+	background:linear-gradient(to bottom, #329545, #45bc5c);
+	margin-right:19px;
+}
+
+.news_text p {
+	font-size:14px;
+	color:white;
+	padding-left:10px;
+	margin:0;
+}
+
+.news_textright {
+	float:left;
+	height:89px;
+	width:232px;
+	background:linear-gradient(to bottom, #329545, #45bc5c);
+}
+
+.news_textright p {
+	font-size:14px;
+	color:white;
+	padding-left:10px;
+	margin:0;
+}
+
+.image_underwater {
+	float:left;
+	height:264px;
+	width:232px;
+	margin-right:19px;
+}
+
+.image_whitebear {
+	float:left;
+	height:264px;
+	margin-right:19px;
+}
+
+.image_hearts {
+	float:left;
+	height:264px;
+}
+
+.contacts_footer {
+	height:96px;
+	width:100%;
+	background:#fac10a;
+}
+
+.contacts_foot {
+	width:980px;
+	height:96px;
+	margin:0 auto;
+}
+
+.contacts_connect {
+	float:left;
+	height:96px;
+	width:711px;
+	color:white;
+	font-size:20px;
+}
+
+.contacts_connect p {
+	margin:0;
+	padding-top:20px;
+}
+
+.admin_title {
+	height:48px;
+}
+
+.donat_title {
+	height:48px;
+}
+
+.donat_title p {
+	margin-top:0;
+}
+
+.contacts_telephone {
+	padding:14px 0;
+	width:178px;
+	height:68px;
+	float:left;
+	font-size:20px;
+}
+
+.icons {
+	height:89px;
+	width:100%;
+	background:#3fa654;
+}
+
+.icons_container {
+	height:89px;
+	width:980px;
+	margin:0 auto;
+}
+
+.icons_images {
+	padding:10px 47px 10px 0;
+	float:left;
+}
+
+.icons_railcraft {
+	padding:0;
+	margin:0;
+	float:left;
+	padding:10px 0;
+}
+
+.donat {
+	margin-bottom:20px;
+	margin-top:10px;
+}
+
+.copyright {
+	width:980px;
+	height:13px;
+	margin:0 auto;
+	color:#424242;
+	font-size:14px;
+	padding-top:23px;
+	padding-bottom:21px;
+}
